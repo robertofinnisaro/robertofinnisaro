@@ -1,4 +1,4 @@
-### 👋 Hi, I am Roberto Finnisaro
+<p align="center"># 👋 Hi, I am Roberto Finnisaro</p>
 
 <p align="center">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering.</p>
 
