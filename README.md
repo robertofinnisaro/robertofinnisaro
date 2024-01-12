@@ -1,9 +1,9 @@
 ### 👋 Hi, I am Roberto Finnisaro
 
-<p align="center">I am a graduate from the [University of Hull](https://hull.ac.uk) with a First Class Honours Degree in Mechatronic and Robotic Engineering.</p>
+<p align="center">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering.
 
 Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue.
-Thesis Title: Investigating the integration of Electroencephalography (EEG) to mitigate the muscle fatigue sustained from using Electromyography (EMG) based prosthetic hands.
+Thesis Title: Investigating the integration of Electroencephalography (EEG) to mitigate the muscle fatigue sustained from using Electromyography (EMG) based prosthetic hands.</p>
 
 
 <!--
