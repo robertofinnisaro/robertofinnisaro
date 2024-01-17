@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/robertofinnisaro/robertofinnisaro/blob/main/Figures/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/robertofinnisaro/robertofinnisaro/blob/main/Figures/github-user-contribution.svg" />
+  <img alt="github-snake" src="https://github.com/robertofinnisaro/robertofinnisaro/blob/main/Figures/github-user-contribution.svg" />
+</picture>
