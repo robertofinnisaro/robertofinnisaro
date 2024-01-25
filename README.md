@@ -5,7 +5,7 @@
 <p align="center">Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue.
 Thesis Title: Investigating the integration of Electroencephalography (EEG) to mitigate the muscle fatigue sustained from using Electromyography (EMG) based prosthetic hands.</p>
 
-## <p align="center">Contributions</p>>
+## <p align="center">Contributions</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertofinnisaro&theme=vue&hide_border=false)
 
 <picture>
