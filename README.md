@@ -1,11 +1,11 @@
-# <p align="center">Rob Finnis</p>
+# <p align="justify">Rob Finnis</p>
 
 <p align="justify">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering.</p>
 
 <p align="justify">Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue.
 Thesis Title: Investigating the integration of Electroencephalography (EEG) to mitigate the muscle fatigue sustained from using Electromyography (EMG) based prosthetic hands.</p>
 
-## <p align="center">Contributions</p>
+## <p align="justify">Contributions</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertofinnisaro&theme=vue&hide_border=false)
 
 <picture>
