@@ -2,7 +2,9 @@
 
 <p align="justify">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering.</p>
 
-<p align="justify">Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue.
+<p align="justify">Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue</p>
+
+<p align="justify">Expected graduation 2027</p>
   
 ## <p align="justify">Contributions</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertofinnisaro&theme=vue&hide_border=false)
