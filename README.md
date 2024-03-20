@@ -1,6 +1,6 @@
 # <p align="justify">Rob Finnis</p>
 
-<p align="justify">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering.</p>
+<p align="justify">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering (MEng).</p>
 
 <p align="justify">Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue</p>
 
