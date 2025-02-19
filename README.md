@@ -58,8 +58,3 @@ Microcontrollers: Arduino, Teensy, ESP, Raspberry Pi, Jetson
 ## 📫 How to Reach Me
 - 💼 LinkedIn: [Rob Finnis, MEng](https://www.linkedin.com/in/rob-finnis-meng-59356b235/)
 - 🌐 Personal Website: [robertofinnisaro](http://robertofinnisaro.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofinnisaro/robertofinnisaro/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robertofinnisaro/robertofinnisaro/output/github-contribution-grid-snake.svg">
-</picture>
