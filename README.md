@@ -8,6 +8,11 @@
   - Master of Mechatronic and Robotic Engineering
   - Graduated: 2023
   - Degree Classification: First Class with Honours
+ 
+- **[Univeristy of Hull](https://www.hull.ac.uk/)**
+  - School of Computer Science
+  - PhD Computer Science
+  - Expected Graduation: 2028
 
 <!--
 ## 🚀 Current Projects
@@ -36,9 +41,6 @@
 ## 📊 GitHub Statistics
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=robertofinnisaro&show_icons=true&theme=radical)
-
-![GitHub Contribution Graph](https://github-contribution-graph.robertofinnisaro.com)
-
 
 ## 💻 Technical Skills
 ```text
