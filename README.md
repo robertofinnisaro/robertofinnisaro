@@ -5,7 +5,7 @@
 ## 🎓 Education
 - **[Univeristy of Hull](https://www.hull.ac.uk/)**
   - School of Computer Science
-  - Master of Mechatronic and Robotic Engineering
+  - Master of Engineering in Mechatronic and Robotic Engineering
   - Graduated: 2023
   - Degree Classification: First Class with Honours
  
