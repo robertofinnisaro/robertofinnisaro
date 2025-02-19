@@ -36,6 +36,9 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=robertofinnisaro&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 💻 Technical Skills
 ```text
 Languages:        Python, C++, MATLAB, C#
