@@ -14,16 +14,10 @@
   - PhD Computer Science
   - Expected Graduation: 2028
 
-<!--
-## 🚀 Current Projects
-- **[Project Name]** - Brief description of what you're building
-  - Technologies used: React, Node.js, MongoDB
-  - [Link to project repository or demo]
 
-- **[Another Project]** - Brief description
-  - Technologies used: Python, TensorFlow, Docker
-  - [Link to project repository or demo]
--->
+## Current Projects
+- **[fNIRS](https://fnirs.org/)** - Controlling Prosthetic Hands using fNIRS
+  - Technologies used: fNIRS, MATLAB, SPM
 
 ## 🌟 Society Projects & Leadership
 - **Univeristy of Hull Robotics Society** - Vice President
