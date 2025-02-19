@@ -1,13 +1,63 @@
 # <p align="justify">Rob Finnis</p>
 
-<p align="justify">I am a graduate from the University of Hull with a First Class Honours Degree in Mechatronic and Robotic Engineering (MEng).</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/rob-finnis-meng-59356b235/)
 
-<p align="justify">Currently at Hull I am a PhD Candidate with a focus on Neuroprosthetics and muscle fatigue</p>
+## 🎓 Education
+- **[Univeristy of Hull](https://www.hull.ac.uk/)**
+  - School of Computer Science
+  - Master of Mechatronic and Robotic Engineering
+  - Graduated: 2023
+  - Degree Classification: First Class with Honours
 
-[robertofinnisaro](Https://robertofinnisaro.com)
-  
-## <p align="justify">Contributions</p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=robertofinnisaro&theme=vue&hide_border=false)
+<!--
+## 🚀 Current Projects
+- **[Project Name]** - Brief description of what you're building
+  - Technologies used: React, Node.js, MongoDB
+  - [Link to project repository or demo]
+
+- **[Another Project]** - Brief description
+  - Technologies used: Python, TensorFlow, Docker
+  - [Link to project repository or demo]
+-->
+
+## 🌟 Society Projects & Leadership
+- **Univeristy of Hull Robotics Society** - Vice President
+  - Led development of [Dalek](https://hull-robotics-society.github.io/projects/dalek/)
+  - [Society website](https://hull-robotics-society.github.io/)
+
+<!--
+## 🏆 Awards & Achievements
+- **[Award Name]** - [Year]
+   - Brief description of the award and its significance
+- **[Hackathon/Competition]** - [Position/Award]
+  - Brief description of the project and technologies used
+  -->
+
+## 📊 GitHub Statistics
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=robertofinnisaro&show_icons=true&theme=radical)
+
+![GitHub Contribution Graph](https://github-contribution-graph.robertofinnisaro.com)
+
+
+## 💻 Technical Skills
+```text
+Languages:        Python, C++, MATLAB, C#
+Web Development:  Jekyll, Node.js, HTML/CSS, Markdown
+Tools:            Git, Docker
+Microcontrollers: Arduino, Teensy, ESP, Raspberry Pi, Jetson
+```
+
+<!--
+## 🤝 Open Source Contributions
+- **[Project Name]** - [Number of PRs/Issues]
+  - Brief description of your contributions
+  - Link to significant pull requests
+  -->
+
+## 📫 How to Reach Me
+- 💼 LinkedIn: [Rob Finnis, MEng](https://www.linkedin.com/in/rob-finnis-meng-59356b235/)
+- 🌐 Personal Website: [robertofinnisaro](http://robertofinnisaro.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertofinnisaro/robertofinnisaro/output/github-contribution-grid-snake-dark.svg">
