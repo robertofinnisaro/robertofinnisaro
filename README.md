@@ -22,6 +22,7 @@
 ## 🌟 Society Projects & Leadership
 - **Univeristy of Hull Robotics Society** - Vice President
   - Led development of [Dalek](https://hull-robotics-society.github.io/projects/dalek/)
+- Lead developer of thd website and github maintainer
   - [Society website](https://hull-robotics-society.github.io/)
 
 <!--
